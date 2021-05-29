@@ -1,4 +1,4 @@
-This Project is realese by Badiou OURO-BANG'NA. I'am a togolese and full stack developer. I have many years of experiences in Python development, Flask Framework, Laravel PHP.
+This Project is realese by Badiou OURO-BANG'NA. I am a togolese and full stack developer. I have many years of experiences in Python development, Flask Framework, Laravel PHP.
 Now i have learn Reactjs, ReactNative and i want to share to every body my knowledge. 
 I have also free to receive your reviews. I know that many of those are very experimented an can help me to improve my skills. 
 
